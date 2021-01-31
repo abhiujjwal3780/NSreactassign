@@ -1,11 +1,8 @@
 import logo from './logo.svg';
 import './App.css';
-import Paracompo from './Paracompo';
 function App() {
   return (
-    <>
-    <Paracompo />
-    </>
+    <p>I am learning React. My life is getting better. </p>
   );
 }
 
