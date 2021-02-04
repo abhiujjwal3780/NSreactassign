@@ -1,8 +1,9 @@
 import logo from './logo.svg';
 import './App.css';
+import Game from './Game';
 function App() {
   return (
-    <p>I am learning React. My life is getting better. </p>
+    <Game />
   );
 }
 
